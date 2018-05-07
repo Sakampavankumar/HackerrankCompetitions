@@ -1,3 +1,6 @@
+# This is the solution to https://www.hackerrank.com/contests/w37/challenges/the-average-rating-of-top-employees
+
+
 def averageOfTopEmployees(rating):
     average = roundi(sum(rating) / len(rating) * 100) / 100
     print('%.2f' % average)
