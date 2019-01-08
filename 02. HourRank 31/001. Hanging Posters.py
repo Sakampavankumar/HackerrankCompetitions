@@ -1,4 +1,5 @@
-# This is the solution to https://www.hackerrank.com/contests/hourrank-31/challenges/hanging-posters/problem
+# Problem: https://www.hackerrank.com/contests/hourrank-31/challenges/hanging-posters/problem
+# Score: 15
 
 
 import math

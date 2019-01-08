@@ -1,4 +1,5 @@
-# This is the solution to https://www.hackerrank.com/contests/hourrank-31/challenges/save-the-queen/problem
+# Problem: https://www.hackerrank.com/contests/hourrank-31/challenges/save-the-queen/problem
+# Score: 40
 
 
 def avg(ans, rest):
