@@ -1,4 +1,5 @@
-# This is the solution to https://www.hackerrank.com/contests/w37/challenges/the-average-rating-of-top-employees
+# Problem: https://www.hackerrank.com/contests/w37/challenges/the-average-rating-of-top-employees
+# Score: 10
 
 
 def averageOfTopEmployees(rating):

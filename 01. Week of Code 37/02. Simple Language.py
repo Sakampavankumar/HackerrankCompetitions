@@ -1,4 +1,5 @@
-# This is the solution to https://www.hackerrank.com/contests/w37/challenges/simple-language/problem
+# Problem: https://www.hackerrank.com/contests/w37/challenges/simple-language/problem
+# Score: 20
 
 
 def maximumProgramValue(n):
